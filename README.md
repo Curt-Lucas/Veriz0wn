@@ -1,10 +1,6 @@
 # Veriz0wn: OSINT
 OSINT project for my personal resume.
 
-## Server Requirements
-
-PHP version 7.4
-
 ## Dependencies
 | NAME | VERSION | WEB | REPO |
 | :--- | :---: | :---: | :---: |
@@ -16,11 +12,3 @@ PHP version 7.4
 | Font Awesome | 4.7.0 | [Website](https://fontawesome.com/v4.7.0) | [Github](https://github.com/FortAwesome/Font-Awesome)
 | Mobile Detect | 2.8.30 | [Website](http://mobiledetect.net) | [Github](https://github.com/serbanghita/Mobile-Detect)
 
-## CodeIgniter 3 Documentation
-
-* [User guide](https://codeigniter.com/user_guide)
-
-## Reference
-
-* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
-* [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
