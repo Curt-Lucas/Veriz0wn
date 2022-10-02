@@ -1,7 +1,10 @@
 # Veriz0wn: OSINT
 Open-Source Intelligence project for my personal resume.
 
-## Dependencies
+## Shoulders of Giants
+
+Built upon:
+
 | NAME | VERSION | WEB | REPO |
 | :--- | :---: | :---: | :---: |
 | CodeIgniter | 3.1.10 | [Website](https://codeigniter.com) | [Github](https://github.com/bcit-ci/CodeIgniter/)
