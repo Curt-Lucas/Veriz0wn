@@ -1,5 +1,5 @@
 # Veriz0wn: OSINT
-OSINT project for my personal resume.
+Open-Source Intelligence project for my personal resume.
 
 ## Dependencies
 | NAME | VERSION | WEB | REPO |
