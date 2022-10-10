@@ -10,6 +10,7 @@ Built upon:
 | PHP | 7.4 | [Website](https://www.php.net/) | [Github](https://github.com/php)
 | MariaDB | 10.6.7 | [Website](https://mariadb.org/) | [Github](https://github.com/MariaDB/)
 | Node.js | 12.22.9 | [Website](https://nodejs.org/en/) | [Github](https://github.com/nodejs)
+| hapi.js | 20.2.1 | [Website](https://hapi.dev/) | [Github](https://github.com/hapijs/hapi)
 | npm | 8.5.1 | [Website](https://www.npmjs.com/) | [Github](https://github.com/npm)
 | CodeIgniter | 3.1.10 | [Website](https://codeigniter.com) | [Github](https://github.com/bcit-ci/CodeIgniter/)
 | AdminLTE | 2.3.11 | [Website](https://adminlte.io) | [Github](https://github.com/almasaeed2010/AdminLTE/)
