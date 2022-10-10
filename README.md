@@ -5,8 +5,10 @@ Open-Source Intelligence project for my personal resume.
 
 Built upon:
 
-| NAME | VERSION | WEB | REPO |
+| NAME | VERSION | WEBSITE | GITHUB |
 | :--- | :---: | :---: | :---: |
+| PHP | 7.4 | [Website](https://www.php.net/) | [Github](https://github.com/php)
+| Node.js | 12.22.9 | [Website](https://nodejs.org/en/) | [Github](https://github.com/nodejs)
 | CodeIgniter | 3.1.10 | [Website](https://codeigniter.com) | [Github](https://github.com/bcit-ci/CodeIgniter/)
 | AdminLTE | 2.3.11 | [Website](https://adminlte.io) | [Github](https://github.com/almasaeed2010/AdminLTE/)
 | Bootstrap | 3.3.7 | [Website](https://getbootstrap.com/docs/3.3) | [Github](https://github.com/twbs/bootstrap)
