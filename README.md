@@ -1,5 +1,5 @@
 # Veriz0wn: OSINT
-Open-Source Intelligence project for my personal resume. Veriz0wn is a portal built for intelligence collection using various intelligence gathering disciplines such as; HUMINT, GEOINT, MASINT, OSINT, SIGINT, TECHINT, CYBINT.
+Open-Source Intelligence project for my personal resume. Veriz0wn is a portal built for intelligence collection using various intelligence gathering disciplines such as; GEOINT, OSINT, IMINT, CYBINT.
 
 ## Shoulders of Giants
 
