@@ -20,3 +20,4 @@ Built upon:
 | Font Awesome | 4.7.0 | [Website](https://fontawesome.com/v4.7.0) | [Github](https://github.com/FortAwesome/Font-Awesome)
 | Mobile Detect | 2.8.30 | [Website](http://mobiledetect.net) | [Github](https://github.com/serbanghita/Mobile-Detect)
 | ClientJS | 0.2.1 | [npm](https://www.npmjs.com/package/clientjs) | [Github](https://github.com/jackspirou/clientjs)
+| DataTables | 1.12.1 | [Website](https://datatables.net/) | [Github](https://github.com/DataTables/DataTables)
