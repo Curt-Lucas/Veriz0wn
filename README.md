@@ -1,5 +1,7 @@
 # Veriz0wn: *INT
-Veriz0wn is a portal built for intelligence collection using various intelligence gathering disciplines such as; GEOINT, OSINT, IMINT, CYBINT.
+Veriz0wn is an intelligence collection project focused on improving intel capabilities by conducting real-world exercises.
+
+Mission 1st
 
 ## Shoulders of Giants
 
