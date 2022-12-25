@@ -1,4 +1,4 @@
-# Veriz0wn.com
+# Veriz0wn
 Veriz0wn is an intelligence collection project focused on improving intel capabilities by conducting real-world exercises.
 
 https://veriz0wn.com/
