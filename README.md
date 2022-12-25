@@ -3,7 +3,7 @@ Veriz0wn is an intelligence collection project focused on improving intel capabi
 
 ## Site Contents
 
- - My Data - Displays all your personal information that's visible to *ALL* websites you visit.
+ - My Data - Displays personal information that's visible to *ALL* websites you visit.
  - SIGINT - Signals that I have intercepted and/or decoded.
  - Reverse Image Lookup - Upload an image to find out more about it.
  - Resources - Coming...
