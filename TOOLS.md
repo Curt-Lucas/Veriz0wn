@@ -9,7 +9,7 @@ Antivirus
 3. OpenVAS: https://www.openvas.org/
 Vulnerability Scanner
 
-4. TheHive: https://lnkd.in/e7aVCRUZ
+4. TheHive: https://thehive-project.org/
 Incident Response
 
 5. PFSense: https://www.pfsense.org/
